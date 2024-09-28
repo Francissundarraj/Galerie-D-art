@@ -19,6 +19,6 @@ Utilizes Flexbox to create a fluid and dynamic layout that showcases artwork eff
 ## CSS: For styling the layout and visual presentation.
 ## Flexbox: To create a responsive and flexible layout.
 
-# I invite you to explore my Art Gallery Website and experience the collection of artworks I've curated. Your feedback would be greatly appreciated! You can view the live site at YourWebsiteLink.com.
+# I invite you to explore my Art Gallery Website and experience the collection of artworks I've curated. Your feedback would be greatly appreciated! You can view the live site at https://francissundarraj.github.io/Galerie-D-art/
 
 Feel free to share your thoughts, and enjoy your visit!
